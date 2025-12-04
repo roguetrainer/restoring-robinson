@@ -18,7 +18,8 @@ You can view the restoration pipeline and the raw audio sources here:
 🔗 https://github.com/roguetrainer/restoring-robinson
 
 For the economic data behind her theories, see related visualization work in the sister repo:
-👉 *beggar-thy-neighbour* (GitHub)
+👉 *beggar-thy-neighbour* 
+🔗 https://github.com/roguetrainer/beggar-thy-neighbour
 
 Robinson was a fierce critic of neoclassical orthodoxy. In an era of trade wars and shifting global power, it is time we heard her clearly again.
 
