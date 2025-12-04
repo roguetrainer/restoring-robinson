@@ -1,0 +1,14 @@
+# --- Core AI Libraries ---
+openai-whisper          # Transcription
+demucs                  # Audio separation (removing noise)
+coqui-tts               # Voice Cloning (The maintained fork of Coqui)
+
+# --- Audio Processing Utilities ---
+pydub                   # Easy audio manipulation (slicing/saving)
+ffmpeg-python           # Python bindings for FFmpeg
+soundfile               # Reading/writing audio files
+librosa                 # Audio analysis
+
+# --- Notebook Support ---
+ipykernel               # Required to run the notebook
+jupyter                 # Jupyter interface
