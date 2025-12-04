@@ -2,6 +2,11 @@
 
 This project aims to restore, transcribe, and re-generate the lectures of economist Joan Robinson (1903–1983) using modern AI audio processing. The goal is to produce high-fidelity audio of her 1974 lectures, which currently exist only as degraded field recordings.
 
+For transcripts see [Transcripts](../data/transcripts/)
+* Queens
+    * [SR181-Robinson_Full_Growth_and_the_Economist](../data/transcripts/SR181-Robinson_Full_Growth_and_the_Economist.md)
+    * [SR182-Robinson_Full_Doomsday](../data/transcripts/SR182-Robinson_Full_Doomsday.md)
+
 ## Workflows: Commercial vs. Open Source
 
 We support two distinct workflows for this project.
